@@ -1,4 +1,4 @@
-package com.exam;
+package com.exam.homework29;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
